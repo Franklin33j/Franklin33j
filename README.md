@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Franklin Guevara</h1>
-<h3 align="center">Me defino como una persona que desea superarse cada dia aprendiendo.Busco asumir retos en un mundo donde la tecnologia siempre es joven </h3>
+<h3 align="center">Me defino como una persona que desea superarse cada dia aprendiendo, busco asumir retos en un mundo donde la tecnologia siempre es joven </h3>
 
-- Estudiante de ingenieria en desarrollo de software.
-- 
-- 🌱Actualmente estoy aprendiendo **Spring, JSF, JPA, JDBC**
+### Acerca de mi:
+- 🥇Estudiante de ingenieria en desarrollo de software.
+
+- 🌱Actualmente estoy aprendiendo: **Spring, JSF, JPA, JDBC**
 
 - 💬Me apasionan las tecnologias como: 
-<ul>
-  <li>** .NET Core  con c#, ADO.NET, WindowsForms**</li>
-   <li>**SQL Server**</li>
-   <li>**Vue.js**</li>
- </ul>
-
-<h3 align="left">Contacto:</h3>
+   **.NET Core  con c#, ADO.NET, WindowsForms, SQL Server, Vue.js**
+   
+### Contactame:
+<p align="left">
+<a href="https://www.linkedin.com/in/franklin-guevara-16abb0128/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="franklin guevara" height="30" width="40" /></a>
+</p>
+<br>
+<h3 align="left">Algunas herramientas:</h3>
    <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cs/" target="_blank"
@@ -37,5 +39,9 @@
              <a href="https://www.oracle.com/es/database/" target="_blank" rel="noreferrer"> <img
                 src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg"
                 alt="Oracle" width="40" height="40" />
+             </a>
+             <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
+                src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"
+                alt="Laravel" width="40" height="40" />
              </a>
     </p>
